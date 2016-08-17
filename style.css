@@ -1,0 +1,86 @@
+/**/
+/*ID'S*/
+/**/
+#main_page {
+   background-color: #C8D0E5;
+}
+
+#cp {
+   position: fixed;
+   bottom: 0px;
+   text-align: center;
+   background: #f4cece;
+   color: black;
+   line-height: 30px;
+   width: 100%;
+}
+
+/**/
+/*CLASSES*/
+/**/
+.whole_page {
+   background-color: #C8D0E5;
+   font-family: "Ubuntu";
+   margin: 0 auto;
+   width: 100%;
+}
+
+.title {
+   width: 100%;
+   position: fixed;
+   top: 0px;
+   background: #f4cece;
+   margin: 0 auto;
+   text-align: center;
+   text-decoration: none;
+   font-size: 50px;
+   font-weight: bold;
+}
+
+.nav_bar {
+   position: fixed;
+   top: 80px;
+   left: 0px;
+   height: 100%;
+   background: #f4cece;
+   float: left;
+   width: 20%;
+}
+
+.nav_title {
+   font-size: 40px;
+   color: black;
+   text-align: center;
+   padding-bottom: 5px;
+}
+
+.nav_list {
+   text-align: center;
+   padding: 5px 0px 5px 0px;
+   list-style-type: none;
+}
+
+.main {
+   padding: 80px 0px 50px 0px;
+   float: right;
+   background: #DEE7FF;
+   width: 80%;
+   margin: 0 auto;
+}
+
+.project_title {
+   font-size: 26px;
+   width: 325px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.image {
+   width: 200px;
+   margin: 0 auto;
+}
+
+.para {
+   margin: 0 auto;
+   padding: 10px 50px 0px 50px;
+}
